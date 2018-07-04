@@ -1,0 +1,6 @@
+######  1.0.1
+
+- Clearing import
+- include tygame folder (http://www.pygame.org/project-Tygame+-+GUI+Project-2081-.html)
+
+I think noting more...
